@@ -1,0 +1,76 @@
+.header{
+    min-height: 80px;
+    background-color:rebeccapurple ;
+}
+.slider{
+    min-height: 80px;
+    background-color: rgb(7, 231, 183);
+}
+.about{
+    overflow: hidden;
+}
+.description{
+    min-height: 80px;
+    background-color: rgb(4, 79, 122);
+    width: 50%;
+    float: left;
+}
+.image{
+    min-height: 80px;
+    background-color: rgba(250, 142, 209, 0.904);
+    width: 50%;
+    float: right;
+}
+.skill{
+    overflow: hidden;
+}
+.skill_01{
+    min-height: 100px;
+    background-color: rgb(169, 247, 45);
+    width: 33.33%;
+    float: left;
+}
+.skill_02{
+    min-height: 100px;
+    background-color: rgb(240, 16, 248);
+    width: 33.33%;
+    float: left;
+}
+.skill_03{
+    min-height: 100px;
+    background-color: rgb(84, 54, 92);
+    width: 33.33%;
+    float: left;
+}
+.service{
+    overflow: hidden;
+}
+.service_01{
+    min-height: 100px;
+    background-color: rgb(235, 238, 34);
+    width: 25%;
+    float:right;
+}
+.service_02{
+    min-height: 100px;
+    background-color:rgb(8, 90, 72) ;
+    width: 25%;
+    float: left;
+}
+.service_03{
+    min-height: 100px;
+    background-color: rgb(253, 194, 194);
+    width: 25%;
+    float: left;
+}
+.service_04{
+    min-height: 100px;
+    background-color: rgb(229, 238, 151);
+    width: 25%;
+    float: left;
+}
+.footer{
+    min-height: 100px;
+    background-color: rgb(206, 114, 98);
+    
+}
